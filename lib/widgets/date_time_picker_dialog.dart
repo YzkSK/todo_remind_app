@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../models/todo.dart';
-import '../screens/weekly_repeat_config_page.dart';
+import '../screens/weekly_repeat_config_screen.dart';
 
 class DateTimePickerResult {
   final DateTime? dateTime;  // 1回のみの場合のみ使用
